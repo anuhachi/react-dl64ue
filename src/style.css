@@ -1,0 +1,25 @@
+h1, p {
+  font-family: Lato;
+}
+h1, p {
+  font-family: Lato;
+}
+
+.card-ordini{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.centered {
+  margin-top: 20px;
+  text-align: center;
+  vertical-align: middle;
+  }
+
+.button-ordine-destra {
+    float: right;
+    margin-bottom: 50px;
+}
+.button-ordine-sinistra {
+  float: left;
+  margin-bottom: 50px;
+}
